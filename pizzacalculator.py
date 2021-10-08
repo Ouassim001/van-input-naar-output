@@ -10,4 +10,4 @@ pricesmall = (pizzasmall * 5)
 pricemedium = (pizzamedium * 8)
 pricelarge = (pizzalarge * 10)
 
-print("de prijs van uw pizza is dan " + str(pricesmall + pricemedium + pricelarge) + " euro")
+print("de prijs van uw bestelling is dan " + str(pricesmall + pricemedium + pricelarge) + " euro")
